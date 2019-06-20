@@ -1,12 +1,12 @@
 {
 	"msg": "重要通知",
 	"data": {
-		"android_vercode_show": 0,
+		"android_vercode_show": 100,
 		"ios_vercode_show": 0,
-		"title": "重要通知",
-		"content": "因特殊原因，该APP已无法使用，请尽快在浏览器下载新的app使用。",
-		"website": "http://www.jisu66.com",
-		"button": "立即下载",
+		"title": "服务器故障通知",
+		"content": "尊敬的用户：由于服务器出现故障，造成App无法使用，技术部正在紧急处理当中，如有不便敬请谅解。",
+		"website": "",
+		"button": "我知道了",
 		"domain": ""
 	}
 }
